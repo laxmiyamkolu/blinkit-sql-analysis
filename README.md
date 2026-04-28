@@ -1,6 +1,6 @@
 📊 **Blinkit Sales \& Delivery Analysis using SQL**
 
-===
+
 
 ### 🔍 Project Overview
 
