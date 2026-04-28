@@ -16,7 +16,7 @@ This project focuses on analyzing Blinkit’s sales, customer behavior, product 
 * Identify top-performing products and categories
 * Understand customer behavior and segmentation
 * Evaluate delivery performance and identify delay causes
-* 
+  
 
 ### 🗂️ Dataset Description
 
@@ -137,7 +137,6 @@ The analysis highlights important business trends in sales, customer behavior, a
 
 
 ### 👩‍💻 Author
-
 
 
 Laxmi Yamkolu
